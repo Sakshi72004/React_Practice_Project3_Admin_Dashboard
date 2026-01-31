@@ -70,21 +70,18 @@ Tables
 
 Pagination
 
-Layout components
 
-🎨 UI Enhancements
-
-Hover effects
-
-Smooth transitions
-
-Responsive layout
 
 🛠️ Tech Stack
 
 React (Vite)
+
 React Router v6
+
 Bootstrap 5
+
 React Icons
+
 Recharts (for charts)
+
 CSS3
