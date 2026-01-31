@@ -8,12 +8,12 @@ This project is part of my React practice series to strengthen real-world fronte
 <img width="1902" height="955" alt="image" src="https://github.com/user-attachments/assets/eb71ef25-64b8-4e76-8483-56b06c36c015" />
 
 
+
 ✨ Features
 
 📊 Dashboard Overview
 
 Revenue, Orders, Customers, Pending Orders stats
-
 Sales chart & target progress
 
 🛍️ Products Page
@@ -83,13 +83,8 @@ Responsive layout
 🛠️ Tech Stack
 
 React (Vite)
-
 React Router v6
-
 Bootstrap 5
-
 React Icons
-
 Recharts (for charts)
-
 CSS3
