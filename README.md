@@ -3,6 +3,8 @@
 A modern Admin Dashboard built using React + Bootstrap, featuring reusable components, routing, dynamic UI updates, and clean layout architecture.
 This project is part of my React practice series to strengthen real-world frontend development skills.
 
+🔗 Live Demo: https://practice-react-dashboard.netlify.app
+
 📸 Preview
 
 <img width="1902" height="955" alt="image" src="https://github.com/user-attachments/assets/eb71ef25-64b8-4e76-8483-56b06c36c015" />
